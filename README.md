@@ -11,4 +11,7 @@ Student Info
 
 * Student Name: MY BEAUTY (is) FULL 
 * Student ID: ID123
+* Student Name: Nguyễn Ngọc Khanh
+* Student ID: BI12-205
+*
 
